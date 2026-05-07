@@ -33,14 +33,6 @@ Olá! Sou apaixonada por tecnologia, espaço e segurança da informação. Atual
 | **Sistemas** | ![Linux](https://img.shields.io/badge/Linux-%23121212.svg?style=for-the-badge&logo=linux&logoColor=red) ![Windows](https://img.shields.io/badge/Windows-%23121212.svg?style=for-the-badge&logo=windows&logoColor=red) |
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4y-zI&show_icons=true&theme=dark&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4y-zI&layout=compact&theme=dark&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=000000" />
-</div>
-
----
-
 ### 📫 Conecte-se comigo
 <div align="left">
 <a href="https://discord.com](https://discord.gg/wkN57gNVRe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
