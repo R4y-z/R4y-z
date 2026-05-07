@@ -46,12 +46,12 @@ Olá! Sou apaixonada por tecnologia, espaço e segurança da informação. Atual
 ### 📫 Conecte-se comigo
 <div align="left">
 <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="mailto:seuemail@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:nzstoresup@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=red&style=flat-square&label=VISITAS+AO+PERFIL" alt="contagem de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=R4y-z&color=red&style=flat-square&label=VISITAS+AO+PERFIL" alt="contagem de visitas" />
 </div>
 
