@@ -36,7 +36,7 @@ Olá! Sou apaixonada por tecnologia, espaço e segurança da informação. Atual
 ### 📫 Conecte-se comigo
 <div align="left">
 <a href="https://discord.com](https://discord.gg/wkN57gNVRe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="mailto:nzstoresup@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:nzstoresup@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <br />
