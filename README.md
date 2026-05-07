@@ -20,7 +20,7 @@
 Olá! Sou apaixonada por tecnologia, espaço e segurança da informação. Atualmente, estou focada em desenvolver interfaces fluidas e explorar o mundo do **Pentesting**. Gosto de sistemas otimizados e de entender como as coisas funcionam "por baixo do capô".
 
 - 🔭 Trabalhando no projeto **[hopewx.online](https://www.hopewx.online)**.
-- 🛡️ Estudando técnicas de Red Team e Segurança de Redes.
+- 🛡️ Estudando técnicas de Red Team e Segurança cibernética.
 - 🎮 Nas horas vagas, estou no **Valorant** ou **Dead by Daylight**.
 
 ---
