@@ -28,7 +28,7 @@ Olá! Sou apaixonada por tecnologia, espaço e segurança da informação. Atual
 
 | Categoria | Badges |
 | :--- | :--- |
-| **Linguagens & Web** | <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=red" /> <img src="https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=red&v=1" /> <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=red" /> <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=red" /> |
+| **Linguagens & Web** | <img src="https://img.shields.io/badge/Python-121212?style=for-the-badge&logo=python&logoColor=red" /> <img src="https://img.shields.io/badge/CSS-121212?style=for-the-badge&logo=css&logoColor=red" /> <img src="https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=red" /> <img src="https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=red" /> |
 | **Pentest Tools** | <img src="https://img.shields.io/badge/Burp_Suite-121212?style=for-the-badge&logo=burpsuite&logoColor=red" /> <img src="https://img.shields.io/badge/Caido-121212?style=for-the-badge&logo=target&logoColor=red" /> <img src="https://img.shields.io/badge/Kali_Linux-121212?style=for-the-badge&logo=kali-linux&logoColor=red" /> |
 | **Sistemas** | <img src="https://img.shields.io/badge/Linux-121212?style=for-the-badge&logo=linux&logoColor=red" /> <img src="https://img.shields.io/badge/Windows-121212?style=for-the-badge&logo=windows&logoColor=red" /> |
 ---
