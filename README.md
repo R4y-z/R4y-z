@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ [Kelyanne Eduarda]
+# ⚡ [Eduarda]
 
 ### `Full Stack Developer` | `Cybersecurity Student` | `Pentester`
 
