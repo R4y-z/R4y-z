@@ -35,8 +35,8 @@ Olá! Sou apaixonada por tecnologia, espaço e segurança da informação. Atual
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=000000" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4y-zI&show_icons=true&theme=dark&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4y-zI&layout=compact&theme=dark&icon_color=ff0000&title_color=ff0000&text_color=ffffff&bg_color=000000" />
 </div>
 
 ---
