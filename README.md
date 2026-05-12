@@ -21,7 +21,7 @@ Olá! Sou apaixonada por tecnologia, espaço e segurança da informação. Atual
 
 - 🔭 Trabalhando no projeto **[hopewx.online](https://www.hopewx.online)**.
 - 📶 Desenvolvi o hopewx.online utilizando integrações de APIs em tempo real para conectar minha presença digital (Discord) diretamente aos visitantes do site. A plataforma sincroniza automaticamente meu status de jogos e a reprodução de mídia via Spotify, permitindo que os visitantes ouçam músicas definidas por mim e o fundo mude conforme a música. O diferencial técnico inclui a manipulação dinâmica de elementos do DOM para alterar a identidade visual do site com base nos metadados da música.
-- 🛡️ Estudando técnicas de Red Team e Segurança cibernética.
+- 🛡️ Estudando técnicas de Red Team e Segurança Cibernética.
 
 ---
 ### 🛠️ Toolbox (Tecnologias & Ferramentas)
